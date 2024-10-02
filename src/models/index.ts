@@ -1,0 +1,3 @@
+interface Keys {
+	groqApiKey: string;
+}
